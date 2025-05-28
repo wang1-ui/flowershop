@@ -7,6 +7,6 @@ A responsive flower shop website showcasing floral collections with easy online 
 
 ## Screenshots
 
-![Screenshot 2](Screenshot2.png)
 ![Screenshot 1](Screenshot1.png)
+![Screenshot 2](Screenshot2.png)
 
